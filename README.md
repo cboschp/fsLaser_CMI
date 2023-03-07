@@ -3,6 +3,9 @@ Femtosecond laser preparation of resin embedded samples for correlative microsco
 
 Supporting data.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7706208.svg)](https://doi.org/10.5281/zenodo.7706208)
+
+
 ## Using this repo
 You can explore the 3D datasets in [webKnossos](https://webknossos.org/) following either of the links provided. No need to install anything. 
 
